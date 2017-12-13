@@ -1,0 +1,11 @@
+/*** Сброс настроект ***/
+
+.border { border: 2px solid #DDE1E4; }
+/*** Разметка шапки ***/
+header{width: 100%;}
+#shapka_all{
+	margin: 0 auto;
+	width: 1024px;
+	height: 150px;
+
+}
